@@ -1,0 +1,8 @@
+GIT: Version Control system
+
+git config --global user.name "Vibhor"
+git config --global user.email "vibhor.s@cisinlabs.com"
+
+git status 
+
+git init
