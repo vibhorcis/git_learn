@@ -1,8 +1,29 @@
 GIT: Version Control system
+	git config --global user.name "Vibhor"
+	git config --global user.email "vibhor.s@cisinlabs.com"
 
-git config --global user.name "Vibhor"
-git config --global user.email "vibhor.s@cisinlabs.com"
+	git status
 
-git status 
+	git init
 
-git init
+	git add -a/git add --a
+
+	git status
+
+	git commit -m "message"
+
+	git add filename //Specific file
+
+	rm -rf .git
+
+	git clone https://github.com/vibhorcis/git_learn.git
+
+	pwd
+
+	ls
+
+	.gitignore
+
+	git diff (staging area working directory)
+
+	git push origin main
