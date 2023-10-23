@@ -27,3 +27,9 @@ GIT: Version Control system
 	git diff (staging area working directory)
 
 	git push origin main
+
+	git restore filename
+
+	git checkout -b develop
+
+	git branch
